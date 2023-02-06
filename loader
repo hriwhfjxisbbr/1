@@ -1,3 +1,4 @@
+
 local scriptsets = {
     {
         Name = "Part 1",
@@ -23,6 +24,11 @@ local scriptsets = {
         Name = "Part 5",
         Scripts = "Drifting Car R6, Drifting Car R15, Minecraft R15/R6, Arsenal Remake R15",
         LoaderURL = "https://raw.githubusercontent.com/hriwhfjxisbbr/1/main/6"
+    },
+    {
+        Name = "Part 6",
+        Scripts = "SWAT R6,GUTS R15, Not finished yet",
+        LoaderURL = "https://raw.githubusercontent.com/hriwhfjxisbbr/1/main/7"
     }
 }
 
