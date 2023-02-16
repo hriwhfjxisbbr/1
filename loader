@@ -27,7 +27,7 @@ local scriptsets = {
     },
     {
         Name = "Part 6",
-        Scripts = "SWAT R6,GUTS R15, Not finished yet",
+        Scripts = "SWAT R6,GUTS R15, Sniper R6",
         LoaderURL = "https://raw.githubusercontent.com/hriwhfjxisbbr/1/main/7"
     }
 }
